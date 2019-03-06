@@ -26,7 +26,7 @@ If you face any problem, kindly raise an issue
 
 ### Procedure
 
-1) First, run `LoadData_V2.py` which will get dataset from folder and store it in a pickle file after preprocessing.
+1) First, run `LoadData.py` which will get dataset from folder and store it in a pickle file after preprocessing.
 2) Now you need to have the data, run `Train_pilot.py` which will load data from pickle. After this, the training process begins.
 3) For testing it on the video, run `SDCA.py`
 
